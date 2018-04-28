@@ -1,0 +1,11 @@
+[
+    {
+        "image": "./source/song_1.jpg",
+        "audio": "./source/song_1.mp3",
+        "song": "Happy Birthday",
+        "album": "Mandy",
+        "singer": "Be Happy!",
+        "duration": 127,
+        "isLike": false
+    }
+]
